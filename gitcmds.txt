@@ -1,0 +1,14 @@
+git clone
+git clone https://github.com/mahensingh/watermobileapp.git
+
+Create feature branch
+git branch feature/mahen
+
+move to feature branch
+git checkout feature/mahen
+
+commit code
+git commit -m "Add existing file"
+
+push code
+git push origin branch-name

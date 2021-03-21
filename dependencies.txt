@@ -1,0 +1,14 @@
+Clone project and then install below dependencies
+
+npm install -g expo-cli
+npm install
+expo upgrade
+npm install @react-navigation/native
+expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+npm install --save @react-navigation/stack @react-navigation/drawer
+npm install redux
+npm install react-redux
+expo install expo-app-loading
+npm i react-navigation-header-buttons
+npm install --save moment
+npm install --save redux-thunk
